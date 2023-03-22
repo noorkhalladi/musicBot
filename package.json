@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "node": "^19.8.1"
+  },
+  "name": "musicbot",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
